@@ -13,8 +13,7 @@ It is similar to MVC architecture, but Flux's concept is [much clearer](http://w
 Install the demo.
 
 ```bash
-$ git clone git@github.com:ruanyf/extremely-simple-flux-demo.git
-$ cd extremely-simple-flux-demo && npm install
+$ npm install
 $ npm start
 ```
 
